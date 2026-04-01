@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">💻 Frontend Developer | 🎓 Computer Science Student at HUST<br>🚀 Passionate about building modern web applications, integrating AI/ML solutions, and solving real-world problems.</h6>
+<p align="left">💻 Frontend Developer | 🎓 Computer Science Student at HUST<br>🚀 Passionate about building modern web applications, integrating AI/ML solutions, and solving real-world problems.</p>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h6 align="left">• Build E-Commerce, Booking Systems & Job Portals<br>• Develop Full-Stack Web Apps with MERN & React.js<br>• Design RESTful APIs with JWT Authentication<br>• Integrate AI Models (Mistral 7B, RAG) into web systems</h6>
+<p align="left">• Build E-Commerce, Booking Systems & Job Portals<br>• Develop Full-Stack Web Apps with MERN & React.js<br>• Design RESTful APIs with JWT Authentication<br>• Integrate AI Models (Mistral 7B, RAG) into web systems</p>
 
 ###
 
