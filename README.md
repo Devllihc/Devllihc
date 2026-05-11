@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Frontend Developer | 🎓 Computer Science Student at HUST<br>🚀 Passionate about building modern web applications, integrating AI/ML solutions, and solving real-world problems.</p>
+<p align="left">💻 Frontend Developer | Photographer and Film Maker part-time<br>🚀 Passionate about building modern web applications, integrating AI/ML solutions, and solving real-world problems.</p>
 
 ###
 
