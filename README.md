@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi there, I'm Bùi Công Hoàng (Devllihc)</h1>
+<h1 align="left">👋 Hi there, I'm Bui Cong Hoang (Devllihc)</h1>
 
 ###
 
