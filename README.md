@@ -75,7 +75,7 @@
 
 ###
 
-<p align="left">• Build E-Commerce, Booking Systems & Job Portals<br>• Develop Full-Stack Web Apps with MERN & React.js<br>• Design RESTful APIs with JWT Authentication<br>• Integrate AI Models (Mistral 7B, RAG) into web systems</p>
+<p align="left">• Designing and building highly interactive, high-performance web applications• Build E-Commerce, Booking Systems & Job Portals<br>• Develop Full-Stack Web Apps with MERN & React.js<br>• Design RESTful APIs with JWT Authentication<br>• Integrate AI Models (Mistral 7B, RAG) into web systems</p>
 
 ###
 
